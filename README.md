@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+# ReactJs-Yoga-Website
+This is a Yoga-Class website.This is such a beautiful website! The colors, the words, everything is calming and inspiring.
+
+# Installation
+Install my-project with npm
+
+  npm install yoga-website
+  cd my-yoga-website
+  npm start
